@@ -6,5 +6,5 @@ num=int(input("enter num"))
 for i in range(0 , num, 2):
     print((str(i)) + " is even")
 
-for i in range(1 , num , 3):
+for i in range(1 , num , 2):
     print((str(i)) + " is odd")   
